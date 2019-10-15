@@ -4,5 +4,6 @@ def say_hello(meme)
   
 end
 
-def say_hello()
-  puts ""
+def greeting(name = "Ruby programmer")
+  puts "Hello, #{name}"
+end
