@@ -5,5 +5,5 @@ def say_hello(meme)
 end
 
 def say_hello()
-  puts "hello!"
+  puts "hello! #{}"
 end
