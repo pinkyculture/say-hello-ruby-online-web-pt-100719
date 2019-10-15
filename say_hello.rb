@@ -4,6 +4,3 @@ def say_hello(meme)
   
 end
 
-def say_hello()
-  say_hello
-end
